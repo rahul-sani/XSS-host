@@ -1,1 +1,1 @@
-//your js here
+window.alert(1);
